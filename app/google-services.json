@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1020105023068",
+    "firebase_url": "https://fmovil-12bd6.firebaseio.com",
+    "project_id": "fmovil-12bd6",
+    "storage_bucket": "fmovil-12bd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020105023068:android:def931e87aa6fea4b05099",
+        "android_client_info": {
+          "package_name": "com.example.fmovil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020105023068-82gb2od35ccd5i80kuh5hu919t0j4dn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxi7mHsWJJ5Mcqwr_BCDqMiFq-9hvhd6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020105023068-82gb2od35ccd5i80kuh5hu919t0j4dn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
